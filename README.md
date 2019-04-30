@@ -13,6 +13,12 @@ Made by Amy Wengefeld
  or GDB. Then the ClipTool clips, Venues_MultipleRingBuffer_5, to the RI_Boundary. The final tool,
  SplitbyAttributeTool, takes the previous output, Site_Buffer_clip, and splits the SHP file by
  their respective venues.
-
+ 
+ The Zip_file, FINAL_CHALLENGE_TOOLBOX, contains 2 folders. 
+ 
+      The folder, Final_Challenge_Data, contains a GDB named, "Python_TB_Challenge.gdb", which contains the example data.
+      
+      The folder, Toolbox_Challenge, contains the script and Python Toolbox.
+    
  starter script was taken from
  http://desktop.arcgis.com/en/arcmap/10.3/analyze/creating-tools/a-quick-tour-of-python-toolboxes.htm
